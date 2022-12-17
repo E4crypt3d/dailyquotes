@@ -8,7 +8,6 @@ html, body {
   background-attachment: fixed;
   backdrop-filter: blur(5px);
   background-blend-mode: soft-light;
-  height: 100;
   background-size: cover;
   /* background-image: linear-gradient(0deg, #0d0c0c 0%, #18161a 100%); */
   color: whitesmoke;
@@ -119,7 +118,6 @@ a{
   margin-right: auto;
   font-size: x-large;
   margin-left: 10px;
-
 }
 
 .head-title {
@@ -309,7 +307,6 @@ body.active-modal {
   transition: all 700ms;
 }
 textarea.form-input {
-  padding: auto;
   width: 380px;
   height: 60px;
 

@@ -99,7 +99,7 @@ const Pagination = (props) => {
                 <input type='submit' value={'Previous'} className='pagination-btn pagination-btn-left' onClick={handlePrevious}></input>
             )}
             {paginationAlgo.map((value, index) => (
-                <React.Fragment key={value}>
+                <React.Fragment key={index}>
 
                     {value !== '...' && (
 

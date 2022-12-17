@@ -19,7 +19,6 @@ const CategorySelect = () => {
         'Faith',
         'Family',
         'Famous',
-        'Famous-Quotes',
         'Fear',
         'Fitness',
         'Food',
