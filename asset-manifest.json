@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dailyquotes/static/css/main.2a2cafcd.css",
-    "main.js": "/dailyquotes/static/js/main.4b8108eb.js",
+    "main.css": "/dailyquotes/static/css/main.4eacce4b.css",
+    "main.js": "/dailyquotes/static/js/main.ed296060.js",
     "static/media/background.svg": "/dailyquotes/static/media/background.0a3f803802928f6e36df.svg",
     "index.html": "/dailyquotes/index.html",
-    "main.2a2cafcd.css.map": "/dailyquotes/static/css/main.2a2cafcd.css.map",
-    "main.4b8108eb.js.map": "/dailyquotes/static/js/main.4b8108eb.js.map"
+    "main.4eacce4b.css.map": "/dailyquotes/static/css/main.4eacce4b.css.map",
+    "main.ed296060.js.map": "/dailyquotes/static/js/main.ed296060.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a2cafcd.css",
-    "static/js/main.4b8108eb.js"
+    "static/css/main.4eacce4b.css",
+    "static/js/main.ed296060.js"
   ]
 }
